@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Mohamed Elhassnaoui
-- 👀 I’m interested in développement informatique
-- 🌱 I’m currently learning développement informatique ,Machine Lerning , Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I'm Mohamed Elhassnaoui,
+a passionate Data Scientist with a keen interest in machine learning, deep learning, and computer vision challenges.
+
+🔭 I'm constantly exploring the realms of data to uncover valuable insights and solve real-world problems using the power of algorithms and analytics.
+
+🌱 Currently, I'm on a learning journey that encompasses the exciting worlds of development, machine learning, and deep learning. Each day brings new opportunities to expand my skill set and create innovative solutions.
+
+💼 I'm always open to exciting collaborations and projects that involve cutting-edge technologies and meaningful data-driven initiatives. If you're looking to collaborate, feel free to reach out!
+
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui-7a2162211/), where I share my thoughts and insights on data science and technology.
+
+Keep exploring, learning, and creating!
 
 <!---
 Elhassnaoui2001/Elhassnaoui2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
