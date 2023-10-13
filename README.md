@@ -11,8 +11,8 @@ a passionate Data Scientist with a keen interest in machine learning, deep learn
 
 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui-7a2162211/), where I share my thoughts and insights on data science and technology.
 
-Keep exploring, learning, and creating!
-[data science(data.png)
+Keep exploring, learning, and creating
+![data science(data.png)
 <!---
 Elhassnaoui2001/Elhassnaoui2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
