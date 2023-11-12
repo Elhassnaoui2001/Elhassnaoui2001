@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <!-- My CV -->
 ## 📄 CV
 You can download my CV to learn more about my qualifications and experience:
-[Download CV](https://github.com/yourusername/CV/raw/main/your-cv-file.pdf)
+[Download CV](https://github.com/Elhassnaoui2001/Cv_Mohamed_Elhassnaoui.pdf)
 
 
 
