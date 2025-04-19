@@ -1,26 +1,58 @@
-# Data Scientist | Machine Learning Enthusiast | Problem Solver 🧠
+# 👋 Hi there, I'm Mohamed Elhassnaoui
 
-👋 Hi there, I'm Mohamed Elhassnaoui,
-a passionate Data Scientist with a keen interest in machine learning, deep learning, and computer vision challenges.
+🎓 **Ph.D. Student | Data Scientist | AI Instructor**  
+💡 Passionate about Generative AI, Cloud Computing, and Human-Centered Innovation
 
-🔭 I'm constantly exploring the realms of data to uncover valuable insights and solve real-world problems using the power of algorithms and analytics.
+---
 
-🌱 Currently, I'm on a learning journey that encompasses the exciting worlds of development, machine learning, and deep learning. Each day brings new opportunities to expand my skill set and create innovative solutions.
+## 👨‍💻 About Me
 
-💼 I'm always open to exciting collaborations and projects that involve cutting-edge technologies and meaningful data-driven initiatives. If you're looking to collaborate, feel free to reach out!
+I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deeply interested in making **AI more inclusive, creative, and accessible**.
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui-7a2162211/), where I share my thoughts and insights on data science and technology.
+- 🔭 Currently building AI agents powered by LLMs on **Azure Cloud**
+- 🎨 Working on sign language recognition, Generative AI, and AI for social good
+- 🧠 Contributor to open-source tools around GitHub automation and agent workflows
+- 📊 Experience in NLP, Deep Learning, OCR, and Business Intelligence
+- 🌍 Hackathon enthusiast & AI instructor helping others master prompt engineering
 
-Keep exploring, learning, and creating
-![data science](data.png)
-<!---
-Elhassnaoui2001/Elhassnaoui2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- My CV -->
-## 📄 CV
-You can download my CV to learn more about my qualifications and experience:
-[Download CV](https://github.com/Elhassnaoui2001/Elhassnaoui2001/Cv_Mohamed_Elhassnaoui.pdf)
+---
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🤖 **DeepSeek-Azure Agent** | End-to-end agent system that reads, fixes & commits code to GitHub using LLMs | Python · Azure · GitHub API |
+| 🧠 **Sign Language Recognition** | Deep learning model with ResNet + Attention for sign language classification | PyTorch · CNN · Attention |
+| 📽️ **PlotDot (with ThinkableAI)** | AI script generator for storytelling, fine-tuned on LLaMA & Mistral | LangChain · GPT · Slack Bot |
+| 🏥 **AI for Health (Omdena)** | Agent-based RAG pipeline for health education in underserved regions | RAG · Claude · Streamlit |
+| 📊 **Power BI Dashboards** | Interactive dashboards for public datasets & business KPIs | Power BI · SQL · DAX |
 
+---
+
+## 🧰 Tech Stack
+
+`Python` `Pandas` `PyTorch` `Scikit-learn` `FastAPI`  
+`GitHub Actions` `Azure` `Docker` `LangChain` `LLMs`  
+`Power BI` `PostgreSQL` `React` `Framer` `Prompt Engineering`
+
+---
+
+## 🧑‍🏫 Instructor & Mentor
+
+I love teaching AI through hands-on projects:
+- 👨‍🏫 AI Instructor at GOMYCODE (Generative AI, Prompt Engineering, Claude, Perplexity, Framer)
+- 💬 Mentor at Omdena & open-source contributor
+- 🧪 Creator of GitHub Agent Demos & Prompting Workflows
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **elhassnaoui.mohamed@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui/)
+- 🌐 [Portfolio Website](https://your-website-link.com) *(if you want one, I can help you create it!)*
+- 🤝 Always open to collaboration on AI4Good, LLMs, or open source!
+
+---
+
+⭐️ *Feel free to explore my pinned projects below — and don’t forget to drop a star if you find something cool!*  
