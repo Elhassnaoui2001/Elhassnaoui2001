@@ -34,11 +34,12 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elhassnaoui-7a2162211) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elhassnaoui2001)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23007A87.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedelhassnaoui)
-[![Zindi](https://img.shields.io/badge/Zindi-%2300A3E6.svg?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/profiles/Elhassnaoui)
- [📧](mailto:contactelhassnaoui@gmail.com)
+[<img src="./Images/linkedin.png" width="40" height="40" style="margin-right: 10px;"/>](https://linkedin.com/in/mohamed-elhassnaoui-7a2162211)
+[<img src="./Images/github.png" width="40" height="40" style="margin-right: 10px;"/>](https://github.com/Elhassnaoui2001)
+[<img src="./Images/Kaggle_logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://www.kaggle.com/mohamedelhassnaoui)
+[<img src="./Images/zindi-logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://zindi.africa/profiles/Elhassnaoui)
+[<img src="./Images/gmail.png" width="60" height="40" style="margin-right: 10px;"/>](mailto:contactelhassnaoui@gmail.com)
+
 
 # 💻 Tech Stack:
 
@@ -68,20 +69,19 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Elhassnaoui2001&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Day Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Elhassnaoui2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 ## 📫 Let's Connect!
 
 - 📧 **contactelhassnaoui@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui/)
-- 🌐 [Portfolio Website](https://your-website-link.com) *(if you want one, I can help you create it!)*
+- 🌐 [Portfolio Website](https://elhassnaoui.com) *(if you want one, I can help you create it!)*
 - 🤝 Always open to collaboration on AI4Good, LLMs, or open source!
 
 ---
