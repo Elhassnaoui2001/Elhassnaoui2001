@@ -76,7 +76,7 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 
 # 📄 Download My CV
 
-You can download my CV in different languages:
+Want to know more about my journey? Choose the version that suits you:
 
 - [Download CV (French)](./Cv/Cv_Elhassnaoui_Mohamed-fr.pdf)
 - [Download CV (English)](./Cv_Elhassnaoui_Mohamed-en.pdf)
