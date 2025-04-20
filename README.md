@@ -1,4 +1,4 @@
-# ![Your Image](./data.png)
+# ![Your Image](./1743785906346.jpg)
 
 ---
 # 👋 Hi there, I'm Mohamed Elhassnaoui
@@ -36,9 +36,9 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-elhassnaoui-7a2162211) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elhassnaoui2001)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23007A87.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elhassnaoui)
-[![Zindi](https://img.shields.io/badge/Zindi-%2300A3E6.svg?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/profiles/elhassnaoui)
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23007A87.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedelhassnaoui)
+[![Zindi](https://img.shields.io/badge/Zindi-%2300A3E6.svg?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/profiles/Elhassnaoui)
+ [📧](mailto:contactelhassnaoui@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -79,7 +79,7 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 
 ## 📫 Let's Connect!
 
-- 📧 **elhassnaoui.mohamed@gmail.com**
+- 📧 **contactelhassnaoui@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-elhassnaoui/)
 - 🌐 [Portfolio Website](https://your-website-link.com) *(if you want one, I can help you create it!)*
 - 🤝 Always open to collaboration on AI4Good, LLMs, or open source!
