@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deeply interested in making **AI more inclusive, creative, and accessible**.
 
@@ -20,7 +20,7 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -33,7 +33,7 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 ---
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [<img src="./Images/linkedin.png" width="40" height="40" style="margin-right: 10px;"/>](https://linkedin.com/in/mohamed-elhassnaoui-7a2162211)
 [<img src="./Images/github.png" width="40" height="40" style="margin-right: 10px;"/>](https://github.com/Elhassnaoui2001)
 [<img src="./Images/Kaggle_logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://www.kaggle.com/mohamedelhassnaoui)
