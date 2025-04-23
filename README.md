@@ -37,7 +37,7 @@ I'm a Data Scientist and Ph.D. student at the Faculty of Sciences of Rabat, deep
 [<img src="./Images/linkedin.png" width="40" height="40" style="margin-right: 10px;"/>](https://linkedin.com/in/mohamed-elhassnaoui-7a2162211)
 [<img src="./Images/github.png" width="40" height="40" style="margin-right: 10px;"/>](https://github.com/Elhassnaoui2001)
 [<img src="./Images/Kaggle_logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://www.kaggle.com/mohamedelhassnaoui)
-[<img src="./Images/zindi-logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://zindi.africa/profiles/Elhassnaoui)
+[<img src="./Images/zindi-logo.png" width="100" height="40" style="margin-right: 10px;"/>](https://zindi.africa/users/Elhassnaoui)
 [<img src="./Images/gmail.png" width="60" height="40" style="margin-right: 10px;"/>](mailto:contactelhassnaoui@gmail.com)
 
 ---
