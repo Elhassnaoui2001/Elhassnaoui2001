@@ -1,4 +1,5 @@
-def greet(name):
-    print("Hello " + name)
+def calculate_sum(a, b):
+    return a + b
 
-greet("Elhassnaoui")
+result = calculate_sum(3, 7)
+print("The sum is:", result)
