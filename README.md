@@ -3,7 +3,7 @@
 ---
 # 👋 Hi there, I'm Mohamed Elhassnaoui
 
-🎓 **Ph.D. Student | Data Scientist | AI Instructor**  
+🎓 **| Data Scientist | AI Instructor**  
 💡 Passionate about Generative AI, Cloud Computing, and Human-Centered Innovation
 
 ---
