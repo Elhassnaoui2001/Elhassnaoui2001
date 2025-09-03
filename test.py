@@ -1,4 +1,9 @@
-ddef gree(name)
-    print("Hello " + name)
+def greet(name):
+    print(f"Hello, {name}!")
 
-greet("Elhassnaoui")
+def farewell(name):
+    print(f"Goodbye, {name}!")
+
+# Functions are called here
+greet("Alice")
+farewell("Bob")

@@ -1,0 +1,20 @@
+# GitHub Repository Workflow and Commands
+
+## Repository Actions Workflow
+1. Clone the repository: `git clone <repository-url>`.
+2. Navigate to the repository directory.
+3. List branches: `git branch -a`.
+4. Switch branches: `git checkout <branch-name>`.
+5. Create a new branch: `git checkout -b <new-branch-name>`.
+6. Add new files: `git add <file-name>`.
+7. Commit changes: `git commit -m "commit message"`.
+8. Push changes: `git push origin <branch-name>`.
+9. Create a pull request on GitHub.
+
+## Python Tool Actions
+This workflow automates error detection and file fix actions:
+1. Detect errors in a file.
+2. Automate the fix using AI.
+3. Update the corrected file into the repository.
+4. Commit and push the changes.
+5. Open a pull request for collaboration.
